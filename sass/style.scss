@@ -1,0 +1,16 @@
+$background: rgb(113, 162, 218);
+$font: 'Arial';
+
+.container{
+    font-family: $font;
+    width: 300px;
+    max-width: 500px;
+    height: 200px;
+    max-height: 400px;
+    text-align: center;
+    background-color: $background;
+    border-radius: 10px;
+    display: table;
+    margin: 30px auto;
+    box-shadow: 4px 4px 12px rgba(0 ,0 ,0 ,0.50);
+}

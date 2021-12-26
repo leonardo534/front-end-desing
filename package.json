@@ -1,0 +1,20 @@
+{
+  "name": "front-end-desing",
+  "version": "1.0.0",
+  "description": "Repositorio com para fins de estudos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardo534/front-end-desing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardo534/front-end-desing/issues"
+  },
+  "homepage": "https://github.com/leonardo534/front-end-desing#readme"
+}

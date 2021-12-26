@@ -1,1 +1,1 @@
-Repositorio com para fins de estudos
+Repositorio com para fins de estudos.

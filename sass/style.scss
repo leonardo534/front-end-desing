@@ -1,16 +1,24 @@
-$background: rgb(113, 162, 218);
-$font: 'Arial';
+html, body{
+    background:#f2f3f4;
+    padding: 0;
+    margin: 0;
+}
 
-.container{
-    font-family: $font;
-    width: 300px;
-    max-width: 500px;
-    height: 200px;
-    max-height: 400px;
-    text-align: center;
-    background-color: $background;
-    border-radius: 10px;
-    display: table;
-    margin: 30px auto;
-    box-shadow: 4px 4px 12px rgba(0 ,0 ,0 ,0.50);
+header{
+    width: 100%;
+    height: 60px;
+    background: #9013FE;
+    display: block;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+main{
+    width: 1000px;
+    height: 800px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.15);
 }
